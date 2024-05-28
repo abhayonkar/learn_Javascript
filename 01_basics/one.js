@@ -8,3 +8,4 @@ eid = "Rajni"
 console.log(eid)
 //delete
 delete eid
+
